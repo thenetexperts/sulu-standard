@@ -1,6 +1,9 @@
 CHANGELOG for Sulu CMF
 ======================
 
+* dev-master
+    * HOTFIX      #493 use sulu_seo twig method instead of deprecated sulu_meta_seo
+
 * 1.0.8 (2015-08-18)
     * HOTFIX      #---- [Sulu-Standard]  Updated dependencies because of bug in jackalope-jackrabbit
 
